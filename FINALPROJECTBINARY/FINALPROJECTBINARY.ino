@@ -80,4 +80,5 @@ void setup() {
 
 void loop() {
   binaryLed(0);//Here you can change the number from 1 to 9
+  
 }
